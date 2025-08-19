@@ -13,8 +13,7 @@ The project compares multiple ML algorithms and a deep learning model (ANN) to d
 ---
 
 ## 📂 Dataset
-- **Source:** [Specify dataset source if public]
-- **Records:** 1,000
+- **Source:** [[Specify dataset source if public](https://www.kaggle.com/datasets/gabrielsantello/advertisement-click-on-ad)]
 - **Key Features:**
   - Daily Time Spent on Site (minutes)
   - Age (years)
